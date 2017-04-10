@@ -1,0 +1,2 @@
+# BitBar-Plugin-sample
+macOSのメニューバーアプリのBitBarのサンプルプラグインです。
